@@ -4,8 +4,8 @@
 - 🌱 I’m currently on my BS with Brigham Young University in Software Development.
 - 💞️ I’m currently looking for a project idea, once I got it I will create it in python, php and then c#.
 - 📫 You can use this email (edwardkamwi@gmail.com) to contact me.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Projects
+  http://eddysites.wuaze.com/
 
 <!---
 EddyKamwi/EddyKamwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

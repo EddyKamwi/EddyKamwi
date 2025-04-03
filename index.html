@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        async function main() {
+            const div = document.querySelector("p")
+            const data = await fetch("https://api.github.com/emojis");
+            data.json().then(item=>{
+                const urls = Object.values(item)
+                urls.forEach((url)=>{console.log(`<img src="${url}"`)})
+                 
+        });
+        }
+        main()
+
+    </script>
+</head>
+<body>
+    <p></p>
+</body>
+</html>

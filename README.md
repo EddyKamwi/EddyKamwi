@@ -26,7 +26,7 @@ As a full-stack developer I enjoy solving real life problems using programming. 
 
 <div align="center">
   <a href="https://github.com">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddykamwi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddykamwi&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
